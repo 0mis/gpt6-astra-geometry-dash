@@ -1,0 +1,9 @@
+{
+  "geode": "5.10.1",
+  "gd": {"win": "2.2081"},
+  "id": "aiwrld.astra_recorded_bridge",
+  "name": "Astra Recorded Bridge",
+  "version": "v0.7.1",
+  "developer": "AI WRLD",
+  "description": "Local recorded tool-assisted control. Original physics and collisions. No external macros."
+}
