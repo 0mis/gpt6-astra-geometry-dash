@@ -1,0 +1,13 @@
+runtime/
+recordings/
+vendor/
+build/
+__pycache__/
+*.pyc
+*.mkv
+*.mp4
+*.geode
+*.dll
+*.zip
+*.log
+.env

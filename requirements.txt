@@ -1,0 +1,5 @@
+windows-capture==2.0.1
+opencv-python-headless==5.0.0.93
+numpy
+psutil
+imageio-ffmpeg

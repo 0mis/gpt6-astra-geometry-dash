@@ -1,0 +1,27 @@
+{
+  "verified_as_of": "2026-09-18",
+  "selected_challenge_completed": 1,
+  "selected_challenge_total": 6,
+  "tool_assisted": true,
+  "original_collision_rules": true,
+  "audio_tracks": 0,
+  "Clubstep": {
+    "completed": true,
+    "normal_percent": 100,
+    "overall_attempts": 7,
+    "deaths": 2,
+    "manual_resets": 4,
+    "duration_seconds": 112.066667,
+    "fps": 60,
+    "youtube": "https://youtu.be/aGoAvYvWUSU",
+    "x_thread": "https://x.com/imjustnewatai/status/2100972237272629679"
+  },
+  "prerequisites_complete": [
+    "Stereo Madness",
+    "Back On Track",
+    "Polargeist",
+    "Dry Out"
+  ],
+  "banked_secret_coins": 11,
+  "other_selected_levels": "not completed"
+}
